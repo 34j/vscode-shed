@@ -32,7 +32,7 @@
     "shed"
   ],
   "engines": {
-    "vscode": "^1.64.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Formatters"
@@ -40,6 +40,7 @@
   "extensionDependencies": [
     "ms-python.python"
   ],
+  "publisher": "mikoz",
   "activationEvents": [
     "onLanguage:python",
     "workspaceContains:*.py",
