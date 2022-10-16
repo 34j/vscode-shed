@@ -15,13 +15,13 @@
   },
   "publisher": "mikoz",
   "license": "MIT",
-  "homepage": "https://github.com/34j/vscode-shed",
+  "homepage": "https://github.com/34j/vscode-shed-2",
   "repository": {
       "type": "git",
-      "url": "https://github.com/34j/vscode-shed.git"
+      "url": "https://github.com/34j/vscode-shed-2.git"
   },
   "bugs": {
-      "url": "https://github.com/34j/vscode-shed/issues"
+      "url": "https://github.com/34j/vscode-shed-2/issues"
   },
   "galleryBanner": {
       "color": "#1e415e",
