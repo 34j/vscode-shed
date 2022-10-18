@@ -18,8 +18,4 @@ Consider using [Composite Formatter](https://marketplace.visualstudio.com/items?
 | ---------------------------- | -------------------------------------------------------------------------------- |
 | `shed.useIntegratedTerminal` | Whether to use integrated terminal instead of hidden terminal. (Not recommended) |
 
-## Extension Commands
-
-`shed: Restart Server`: Restart Server.
-
 <!--## Known Issues-->
