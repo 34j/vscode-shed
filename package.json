@@ -13,7 +13,6 @@
     "name": "shed",
     "module": "shed"
   },
-  "publisher": "mikoz",
   "license": "MIT",
   "homepage": "https://github.com/34j/vscode-shed-2",
   "repository": {
