@@ -29,7 +29,10 @@
   },
   "keywords": [
     "python",
-    "shed"
+    "shed",
+    "autoflake",
+    "isort",
+    "black"
   ],
   "engines": {
     "vscode": "^1.70.0"
