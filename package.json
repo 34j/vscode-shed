@@ -108,14 +108,14 @@
     "commands": [
       {
         "command": "shed.run",
-        "category": "shed",
+        "category": "Python",
         "title": "Run shed",
         "enablement": "resourceLangId == python || explorerResourceIsFolder"
       },
       {
         "command": "shed.runForWorkspaceFolders",
-        "title": "Python: Run shed For The Workspace Folders",
-        "category": "shed"
+        "title": "Run shed For The Workspace Folders",
+        "category": "Python"
       }
     ],
     "menus": {
